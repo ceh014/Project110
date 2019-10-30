@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eea6172d-3d94-4382-8d74-e7adf2fea8f9" name="Default Changelist" comment="" />
+    <list default="true" id="eea6172d-3d94-4382-8d74-e7adf2fea8f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FahrenheitTest.testFahrenheitToString">
+  <component name="RunManager" selected="JUnit.edu.ucsd.cs110.tests in Project110">
     <configuration name="CelsiusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
       <extension name="coverage">
@@ -65,22 +68,6 @@
       <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.CelsiusTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CelsiusTest.testCelsiusToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project110" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
-      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.CelsiusTest" />
-      <option name="METHOD_NAME" value="testCelsiusToString" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,13 +119,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="edu.ucsd.cs110.tests in Project110" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project110" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.edu.ucsd.cs110.tests in Project110" />
         <item itemvalue="JUnit.FahrenheitTest.testFahrenheitToString" />
         <item itemvalue="JUnit.FahrenheitTest" />
         <item itemvalue="JUnit.FahrenheitTest.testFahrenheit" />
         <item itemvalue="JUnit.CelsiusTest" />
-        <item itemvalue="JUnit.CelsiusTest.testCelsiusToString" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572452740014</updated>
-      <workItem from="1572452741360" duration="3590000" />
+      <workItem from="1572452741360" duration="3817000" />
     </task>
     <servers />
   </component>
